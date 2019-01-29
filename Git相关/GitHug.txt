@@ -1,0 +1,48 @@
+/********* git hug 下载************/
+https://www.jianshu.com/p/1910053e65f7
+
+
+1. 	cd git_hug
+	git init
+2. 	git config --global user.name ""
+	git config --global user.email ""
+3. 	git add README
+4. 	git commit -m "add new file README"
+5. 	git clone https://github/Gazler/cloneme
+6. 	git clone https://github/Gazler/cloneme my_cloned_repo
+7. 	添加 *.swp 到 .gitignore 文件尾
+8. 	添加 *.a  !lib.a  到 .gitignore 文件尾
+9. 	git status 
+10. git status
+11. git add deleteme.rb
+12. git rm --cached deleteme.rb
+13. git stash
+14. git mv oldfile.txt newfile.txt
+15. mkdir src 
+	git mv about.html contact.html index.html src
+16.	git log
+17. git tag "new_tag"
+18. git push --tags origin master
+19. git add forgotten_file.rb
+	git commit --amend -m "修正后提交"
+20.	git commit --date=01.28.2019T18:20:00 -m "用明天的时间提交"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,9 +1,21 @@
+// c++ stl
+https://zh.cppreference.com/w/cpp
+
+// qt下载
+http://download.qt.io/official_releases/
+
 // qt学习 豆子 
 https://www.devbean.net/2012/08/qt-study-road-2-catelog/
 
-// c++ stl
-https://zh.cppreference.com/w/cpp
+
+// vs2017 下载和 企业版激活码
+https://visualstudio.microsoft.com/zh-hans/downloads/
+NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
 
 
 // Dism++清理
 https://www.chuyu.me/zh-Hans/
+
+// GitHug
+https://www.jianshu.com/p/1910053e65f7
+
